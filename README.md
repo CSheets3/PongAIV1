@@ -9,4 +9,4 @@ Right now it gathers all the data after 1 game and tries to learn / implement it
 Obviously you're going to need more data (games) in order for the AI to kind of learn the game.
 So, if you want to change how many games until the AI uses the data then go to Line 251 on the main.js and you can change 1 to [a number you pick].
 
-I will be uploading another repo on version 2 of this game with an AI that already has a bunch of information about the game using Transfer Learning!
+I've merged a new model in python with the data points. You can run / implement it instead of using the javascript one.
