@@ -1,9 +1,9 @@
 # PongAIV1
 A pong game with an AI built into it
 
-*THE PONG GAME ITSELF WAS NOT PROGRAMMED BY ME*
+* Not ALL of the pong game was by me!*
 
-I only customized the machine / module parts to it. This is just pong game with an AI. I open it up with Chrome and it works fine. 
+This is just pong game with an AI. I open it up with Chrome and it works fine. 
 The point to this was to see if an AI could learn to be a better pong player after a few games. Turns out, it's super bad.
 Right now it gathers all the data after 1 game and tries to learn / implement it. 
 Obviously you're going to need more data (games) in order for the AI to kind of learn the game.
