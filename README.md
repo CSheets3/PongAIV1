@@ -1,7 +1,7 @@
 # PongAIV1
 A pong game with an AI built into it
 
-*Not ALL of the pong game was by me*
+Use the left and right arrow keys to move
 
 This is just pong game with an AI. I open it up with Chrome and it works fine. 
 The point to this was to see if an AI could learn to be a better pong player after a few games. Turns out, it's super bad.
